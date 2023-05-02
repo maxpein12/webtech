@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/webtech/static/css/main.073c9b0a.css",
+    "main.js": "/webtech/static/js/main.c75450ab.js",
+    "static/js/787.3d97fafa.chunk.js": "/webtech/static/js/787.3d97fafa.chunk.js",
+    "static/media/logo.svg": "/webtech/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/webtech/index.html",
+    "main.073c9b0a.css.map": "/webtech/static/css/main.073c9b0a.css.map",
+    "main.c75450ab.js.map": "/webtech/static/js/main.c75450ab.js.map",
+    "787.3d97fafa.chunk.js.map": "/webtech/static/js/787.3d97fafa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c75450ab.js"
+  ]
+}
